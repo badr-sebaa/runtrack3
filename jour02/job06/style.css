@@ -1,0 +1,22 @@
+
+body{
+
+    min-width: 4096px;
+
+}
+
+footer{
+    background-color:blue ;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+}
+
+header{
+    background-color:red ;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
